@@ -1,0 +1,1 @@
+Hub and Switch are the network connecting devices, both help to connect various devices. Hub works at the physical layer and transmits the signal to the port. Switch route the information and send it over the network.
